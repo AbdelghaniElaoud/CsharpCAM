@@ -1,6 +1,6 @@
 # RPM Controller: C# Application and Arduino Integration
 
-![App Screenshot](app_screenshot.png)
+![App Screenshot](CsharpInterface.png)
 
 ## Description
 
