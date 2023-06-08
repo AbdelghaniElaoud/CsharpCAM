@@ -32,7 +32,4 @@ Please note that this project is provided as-is, and any usage or modification i
 
 Enjoy controlling RPM with the C# application and Arduino integration!
 
-## Screenshots
-
-Add any relevant screenshots or images showcasing your application here.
-
+## Enjoy :)
